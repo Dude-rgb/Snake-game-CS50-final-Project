@@ -12,25 +12,6 @@ moreover, I decided to add some things in the right game that would make it more
 ## - 👨🏻‍💻 About project 👨🏻‍💻
 
 This game has been made with Lua and LÖVE engine.<br>
-
-<center>
-  <table>
-  <tr>
-   <td>
-      <a href="https://love2d.org/"><img src="./images/love2d.png" style="width: 50px; height: 50px" /></a>
-   </td>
-   <td>
-      <div style="font-size:60px;">+</div>
-   </td>
-   <td style="margin-left:20px;">
-      <a href="https://www.lua.org/"><img src="./images/lua.png" style="width: 50px; height: 50px"/></a>
-   </td>
-  </tr>
-  </table>
-   images link:
-   <a href="https://lh3.googleusercontent.com/xdVqKpXkeU99o26Ibly4yTzjEK_QiQke_vjGsCNto-cQ-VZ1c4MFXm22PRdOo5PQN7Y">love2d</a> -
-   <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Lua-Logo.svg/1200px-Lua-Logo.svg.png">Lua</a>
-</center>
 <br>
 
 In this project we have those archives:
