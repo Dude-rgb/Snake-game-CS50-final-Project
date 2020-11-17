@@ -17,13 +17,13 @@ This game has been made with Lua and LÖVE engine.<br>
   <table>
   <tr>
    <td>
-      <a href="https://love2d.org/"><img src="./images/love2d.png" style="width: 100px; height: 100px" /></a>
+      <a href="https://love2d.org/"><img src="./images/love2d.png" style="width: 50px; height: 50px" /></a>
    </td>
    <td>
       <div style="font-size:60px;">+</div>
    </td>
    <td style="margin-left:20px;">
-      <a href="https://www.lua.org/"><img src="./images/lua.png" style="width: 100px; height: 100px"/></a>
+      <a href="https://www.lua.org/"><img src="./images/lua.png" style="width: 50px; height: 50px"/></a>
    </td>
   </tr>
   </table>
@@ -175,8 +175,7 @@ sudo apt-get install love
 
 ```
 git clone https://github.com/Dude-rgb/Snake-game-CS50-final-Project.git
-unzip snake_game.zip
-love snake_game
+love Snake-game-CS50-final-Project
 ```
 
 <center>
@@ -195,8 +194,7 @@ chmod +x love.AppImage
 
 ```
 git clone https://github.com/Dude-rgb/Snake-game-CS50-final-Project.git
-unzip snake_game.zip
-./love.AppImage snake_game
+./love.AppImage Snake-game-CS50-final-Project
 ```
 
 <p>NOTE: the name love.AppImage is arbitrary please put the name of your archive</p>
@@ -212,8 +210,7 @@ unzip snake_game.zip
 
 ```
 git clone https://github.com/Dude-rgb/Snake-game-CS50-final-Project.git
-unzip snake_game.zip
-love.exe snake_game
+love.exe Snake-game-CS50-final-Project
 ```
 
 <p>NOTE: the name love.exe is arbitrary please put the name path of your archive</p>
@@ -226,9 +223,7 @@ love.exe snake_game
 
 ### 2. Create a shortcut on your desktop (or other place), go to the path where love is installed and go to `send to desktop`
 
-### 3. Get game and unzip them
-
-### 4. Drag and drop the folder (snake_game) on love2d shortcut
+### 3. Drag and drop the folder (Snake-game-CS50-final-Project) on love2d shortcut
 
 <center>
    <h1>Mac</h1>
@@ -242,10 +237,9 @@ love.exe snake_game
 
 ```
 git clone https://github.com/Dude-rgb/Snake-game-CS50-final-Project.git
-unzip snake_game.zip
 ```
 
-### 4. Drag and drop the folder (snake_game) on love2d app
+### 4. Drag and drop the folder (Snake-game-CS50-final-Project) on love2d app
 
 <br><br>
 
